@@ -19,7 +19,7 @@ Click &#34;Add PacMan&#34; to add a new PacMan to the screen.  Add as many as yo
 
 ## Roadmap
 
-Will update to eat food and turn in different directions.
+Will update to eat food and turn Pac-Men to face to the left, currently only facing to the right.
 
 ## Author
 
